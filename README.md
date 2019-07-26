@@ -19,4 +19,4 @@ New York Time Scraper is a simple , easily navigatable site that allows user to 
 
 `express-handlebars`
 
-Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+Markup : ![picture alt](https://github.com/ChristianHPak/Portfolio/blob/master/assets/images/NewYourTimesScraper.png?raw=true "")
