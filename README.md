@@ -2,21 +2,21 @@
 
 ### Overview
 
-The New York Time Scraper (NYT Scraper for short) is a scraper app which captures the title, summary and image of articles of The New York Times. In this app, users are able to save their preferred articles, add notes and edit notes to one or multiple articles. Besides, app also provides search feature, allowing users to search in titles according to different key words.
-
-In this repository, you can see source code of NYT Scraper. 
+New York Time Scraper is a simple , easily navigatable site that allows user to scrape current news article from New Your Times. The site uses cheerio to scrame news and then store the data in mongoDb. Users can save , leave notes and delete articles based on their preference.
 
 
 ### Key Dependencies
 
-`request`: enables `cheerio` to get access to front-end code of https://www.nytimes.com/section/world
+`request`
 
-`cheerio`: scrapes front-end code from https://www.nytimes.com/section/world
+`cheerio`
 
-`mongoose`: be in charge of database of `scrap`
+`mongoose`
 
-`express`: builds server-side routes and functions
+`express`
 
-`morgan`: logs server-side requests, helping debugging
+`morgan`
 
-`express-handlebars`: a powerful front-end builder without requiring multiple html pages
+`express-handlebars`
+
+Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
